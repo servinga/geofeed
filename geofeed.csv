@@ -1,5 +1,5 @@
 # servinga GmbH - Geofeed (datatracker.ietf.org/doc/html/rfc8805)
-# last updated: 2022-01-15
+# last updated: 2022-08-30
 45.11.181.0/24,RO,RO-B,Bucharest,
 185.158.248.0/24,RO,RO-B,Bucharest,
 91.240.202.0/24,GB,GB-MAN,Manchester,
@@ -10,6 +10,7 @@
 109.230.199.0/24,SE,SE-AB,Stockholm,
 194.76.224.0/24,SE,SE-AB,Stockholm,
 45.11.182.0/24,SE,SE-AB,Stockholm,
+91.242.219.0/24,SE,SE-AB,Stockholm,
 91.241.93.0/24,DE,DE-HE,Frankfurt,
 194.76.226.0/24,DE,DE-HE,Frankfurt,
 185.158.251.0/24,DE,DE-HE,Frankfurt,
