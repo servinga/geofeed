@@ -1,5 +1,6 @@
 # servinga GmbH - Geofeed (datatracker.ietf.org/doc/html/rfc8805)
-# last updated: 2022-10-24
+# last updated: 2023-01-09
+94.247.42.0/24,CH,CH-ZG,Huenenberg,
 45.11.181.0/24,RO,RO-B,Bucharest,
 185.158.248.0/24,RO,RO-B,Bucharest,
 91.240.202.0/24,GB,GB-MAN,Manchester,
@@ -30,5 +31,6 @@
 194.76.225.0/24,NL,NL-ZH,Naaldwijk,
 185.158.249.0/24,NL,NL-ZH,Naaldwijk,
 31.214.157.0/24,NL,NL-ZH,Naaldwijk,
+80.77.25.0/24,EE,EE-784,Tallinn,
 194.76.227.0/24,EE,EE-784,Tallinn,
 45.11.183.0/24,EE,EE-784,Tallinn,
