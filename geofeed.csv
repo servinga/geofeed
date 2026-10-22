@@ -33,7 +33,6 @@
 2a0b:7140:5::/48,DE,DE-HE,Frankfurt,
 79.132.128.0/24,NL,NL-ZH,Rotterdam,
 79.132.129.0/24,NL,NL-ZH,Rotterdam,
-79.132.133.0/24,NL,NL-ZH,Rotterdam,
 193.242.210.0/23,NL,NL-ZH,Rotterdam,
 194.76.225.0/24,NL,NL-ZH,Rotterdam,
 185.158.249.0/24,NL,NL-ZH,Rotterdam,
@@ -48,4 +47,5 @@
 78.138.9.0/24,ES,ES-CT,Barcelona,
 79.132.135.0/24,ES,ES-CT,Barcelona,
 185.178.231.0/24,ES,ES-CT,Barcelona,
+79.132.133.0/24,ES,ES-CT,Barcelona,
 2a0b:7140:9::/48,ES,ES-CT,Barcelona,
